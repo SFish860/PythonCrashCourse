@@ -1,12 +1,12 @@
 name="ada lovelace"
 print(name.title())
-
+#.title() caps first letter
 name="ada lovelace"
 print(name.upper())
-
+#.upper() caps all letters
 name="ada lovelace"
 print(name.lower())
-
+#.lower() all letters lower case
 first_name ="ada"
 last_name = "lovelace"
 full_name = first_name + " " + last_name
